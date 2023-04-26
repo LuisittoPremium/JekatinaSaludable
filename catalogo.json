@@ -1,0 +1,74 @@
+[
+    {
+        "nombre": "AmazonPrimeVideo",
+        "mes": "$2.000",
+        "tresMeses": "$5.000",
+        "cuatromeses":"NO disponible"
+    },
+    {
+        "nombre": "Spotify",
+        "mes": "$1.000",
+        "tresMeses": "$2.500",
+        "cuatromeses":"NO disponible"
+    },
+    {
+        "nombre": "HBO Max",
+        "mes": "$2500",
+        "tresMeses": "$5000",
+        "cuatromeses":"$15000"
+    },
+    {   "nombre": "Disney+",
+        "mes": "$3.000",
+        "tresMeses": "$5.000",
+        "cuatromeses":"$15.000"
+    },
+    {
+        "nombre": "Paramount plus",
+        "mes": "$2.500",
+        "tresMeses": "$5.000",
+        "cuatromeses":"NO disponible"
+    },
+    {
+        "nombre": "Star+",
+        "mes": "$3.000",
+        "tresMeses": "$5.000",
+        "cuatromeses":"15.000"
+    },
+    {
+        "nombre": "Crunchyroll",
+        "mes": "$1.500",
+        "tresMeses": "$3.500",
+        "cuatromeses":"$15.000"
+    },
+    {
+        "nombre": "YoutubePremium",
+        "mes": "No disponible",
+        "tresMeses": "$5.000 (4 meses)",
+        "cuatromeses":"NO disponible"
+    },
+    {
+        "nombre": "Funimation",
+        "mes": "$1.000",
+        "tresMeses": "$2.500",
+        "cuatromeses":"$10.000"
+    },
+    {
+        "nombre": "Canva",
+        "mes": "$2.000",
+        "tresMeses": "No disponible",
+        "cuatromeses":"NO disponible"
+    },
+    {
+        "nombre": "IPTV",
+        "mes": "$7.000",
+        "tresMeses": "$13.000",
+        "cuatromeses":"$40.000"
+    },
+    {
+        "nombre": "AppleMusic",
+        "mes": "No disponible",
+        "tresMeses": "$5.000",
+        "cuatromeses":"No disponible"
+    }
+
+]
