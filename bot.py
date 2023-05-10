@@ -11,7 +11,7 @@ while True:
         model="text-davinci-003",
         prompt=conversation,
         temperature=2,
-        max_tokens=200,
+        max_tokens=100,
         top_p=0.3,
         frequency_penalty=0.5,
         presence_penalty=0.0,
