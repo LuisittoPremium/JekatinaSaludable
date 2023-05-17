@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 conversation = "Operador es un chatbot que responde de manera psicópata,belicista y grosero"
 
